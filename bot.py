@@ -18,7 +18,7 @@ from io import BytesIO
 import base64
 
 # ==================== CONFIG ====================
-BOT_TOKEN = "YOUR_BOT_TOKEN"
+BOT_TOKEN = "8520212996:AAFxALtBCRBt5gNi_4xnQBCbFt26B7MdKTw"
 ADMIN_IDS = []
 DATABASE_PATH = 'bot_database.db'
 PORT = int(os.getenv('PORT', 8080))
